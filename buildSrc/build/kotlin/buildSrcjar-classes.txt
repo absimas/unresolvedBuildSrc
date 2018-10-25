@@ -1,0 +1,1 @@
+/home/simas/workspace/AndroidStudioProjects/MyApplication3/buildSrc/build/classes/kotlin/main/com/test/A.class
